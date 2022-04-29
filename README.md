@@ -22,7 +22,7 @@ sabitovdln1@gmail.com
 
 <h3 align="left">Some GitHub activity information</h3>
 
-[![Profile views](https://komarev.com/ghpvc/?username=nibitoff&style=flat&color=orange)
+![Profile views](https://komarev.com/ghpvc/?username=nibitoff&style=flat&color=orange)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibitoff)](https://git.io/streak-stats)
 

@@ -21,6 +21,9 @@ sabitovdln1@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Web-programming&show_icons=true&theme=dark )
 ![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Programming&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Computational-math&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Low-level-programming&show_icons=true&theme=dark)
+
 
 ### 📊 Some GitHub activity information
 

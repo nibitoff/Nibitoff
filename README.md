@@ -27,7 +27,7 @@ sabitovdln1@gmail.com
 
 ### 📊 Some GitHub activity information
 
-![](https://komarev.com/ghpvc/?username=nibitoff&style=for-the-badge&color=orange)
+![](https://komarev.com/ghpvc/?username=nibitoff&style=for-the-badge&color=informational)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nibitoff&show_icons=true&theme=dark)
 

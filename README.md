@@ -5,27 +5,33 @@
 ### 📫 My mail
 sabitovdln1@gmail.com
 
-### You can also contact me via the social networks
+### ⚡ My social networks
 
 <a href="https://vk.com/nibitoff">
-   <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="VK" target="_blank" margin-left="10px">
+   <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white&color=informational" alt="VK" target="_blank" margin-left="15px">
 </a>
 <a href="https://t.me/nibitoff">
-   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
+   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="15px">
+</a>
+<a href="https://www.linkedin.com/in/sabitovdln/">
+   <img top="0" src="https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=informational" alt="Linkedin" target="_blank" margin-left="15px">
 </a>
 
+### 👨‍💻 Some of my projects
 
-<h3 align="left">Some of my projects</h3>
+![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Web-programming&show_icons=true&theme=dark )
+![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Programming&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Web-programming)](https://github.com/nibitoff/Web-programming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Programming)](https://github.com/nibitoff/Programming)
+### 📊 Some GitHub activity information
 
-<h3 align="left">Some GitHub activity information</h3>
+![](https://komarev.com/ghpvc/?username=nibitoff&style=for-the-badge&color=orange)
 
-![Profile views](https://komarev.com/ghpvc/?username=nibitoff&style=flat&color=orange)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nibitoff&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibitoff)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nibitoff&show_icons=true&theme=dark&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibitoff)](https://github.com/nibitoff/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=nibitoff&show_icons=true&theme=dark)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nibitoff)](https://github.com/nibitoff/github-readme-stats)
+
+### 🏆 My Trophies
+![](https://github-profile-trophy.vercel.app/?username=nibitoff&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)

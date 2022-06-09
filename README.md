@@ -18,11 +18,10 @@ sabitovdln1@gmail.com
 </a>
 
 ### 👨‍💻 Some of my projects
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Web-programming&show_icons=true&theme=dark )
-![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Programming&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Computational-math&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Low-level-programming&show_icons=true&theme=dark)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Web-programming&show_icons=true&theme=dark )](https://github.com/nibitoff/Web-programming)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Programming&show_icons=true&theme=dark)](https://github.com/nibitoff/Programming)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Computational-math&show_icons=true&theme=dark)](https://github.com/nibitoff/Computational-math)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nibitoff&repo=Low-level-programming&show_icons=true&theme=dark)](https://github.com/nibitoff/Low-level-programming)
 
 
 ### 📊 Some GitHub activity information
